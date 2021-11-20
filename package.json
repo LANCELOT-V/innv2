@@ -11,9 +11,8 @@
   "dependencies": {
     "discord.js": "^13.3.1",
     "fs": "^0.0.1-security",
-     "images-scraper": "^6.4.0",
+    "images-scraper": "^6.4.0",
     "path": "^0.12.7",
-    "puppeteer": "^11.0.0",
-    "puppeteer-core": "^11.0.0"
+    "puppeteer": "^11.0.0"
   }
 }
